@@ -1,5 +1,5 @@
 <h1 align="center">Hello 😙, I'm Nadeer Mukaram</h1>
-<h3 align="center">A game/web developer</h3>
+<h3 align="center">A game/web developer</h3> <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="50" height="50" alt="joystick gif" title="Joystick Vibes"/>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWUwNGdzazVnOHVpYjV1YWg1MnVydmEweWllOHVxY3doZmc5OTB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qp2GW6OolfLc2BA1Kk/giphy.gif" width="300"/>
@@ -22,9 +22,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Joystick GIF -->
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="50" height="50" alt="joystick gif" title="Joystick Vibes"/>
-
   <!-- Languages & Tools Icons -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -81,7 +78,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://giffiles.alphacoders.com/170/170307.gif" alt="adobe xd" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobe xd" width="40" height="40"/>
   </a>
 </p>
 
