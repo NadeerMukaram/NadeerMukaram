@@ -6,7 +6,7 @@
 </div>
 
 - 🎮 I’m currently working on [Untitled 3rd person action-adventure game](https://github.com/NadeerMukaram/Untitled-Game-WIP)  
-- 🌐 All of my projects are available at [https://nzro.itch.io/](https://nzro.itch.io/) 
+- 🌐 All of my projects are available at [nzro.itch.io](https://nzro.itch.io/) 
 - 📫 How to reach me: **nadeermukaram@gmail.com**
 
 ---
