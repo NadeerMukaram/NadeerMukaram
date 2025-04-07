@@ -1,5 +1,10 @@
 <h1 align="center">Hello 😙, I'm Nadeer Mukaram</h1>
-<h3 align="center">A game/web developer <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="50" height="50" alt="joystick gif" title="Joystick Vibes"/></h3> 
+<div style="text-align: center;">
+  <h3>
+    A game/web developer 
+    <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="50" height="50" alt="joystick gif" title="Joystick Vibes"/>
+  </h3>
+</div>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWUwNGdzazVnOHVpYjV1YWg1MnVydmEweWllOHVxY3doZmc5OTB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qp2GW6OolfLc2BA1Kk/giphy.gif" width="300"/>
