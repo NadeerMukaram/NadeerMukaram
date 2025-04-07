@@ -1,11 +1,10 @@
 <h1 align="center">Hello 😙, I'm Nadeer Mukaram</h1>
-<h3 align="center">A game/web developer </h3>
+<h3 align="center">A game🎮/web🌐 developer </h3>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWUwNGdzazVnOHVpYjV1YWg1MnVydmEweWllOHVxY3doZmc5OTB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qp2GW6OolfLc2BA1Kk/giphy.gif" width="300"/>
 </div>
-
-- 🎮 I’m currently working on [Untitled 3rd person action-adventure game](https://github.com/NadeerMukaram/Untitled-Game-WIP)  
+ 
 - 🌐 All of my projects are available at [nzro.neocities.org](https://nzro.neocities.org/) 
 - 📫 How to reach me: **nadeermukaram@gmail.com**
 
