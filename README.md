@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Links:</h3>
 <p align="left">
   <a href="https://www.facebook.com/nzro3" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
