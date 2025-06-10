@@ -102,7 +102,7 @@
 
 <h3 align="left">More about me:</h3>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/317e9bff-202d-4d49-a62d-b979e0677797" width="400"/>
-  <img src="https://github.com/user-attachments/assets/d0537604-2448-4488-ba34-949caaf5f537" width="400"/>
+  <img src="https://github.com/user-attachments/assets/317e9bff-202d-4d49-a62d-b979e0677797" width="450"/>
+  <img src="https://github.com/user-attachments/assets/d0537604-2448-4488-ba34-949caaf5f537" width="450"/>
   <p><em>my all-time favorite games/movies.</em></p>
 </div>
