@@ -100,5 +100,5 @@
 
 <div align="center">
   <p><em>best games i've ever played</em></p>
-  ![Image](https://github.com/user-attachments/assets/317e9bff-202d-4d49-a62d-b979e0677797)
+   <img src="https://github.com/user-attachments/assets/317e9bff-202d-4d49-a62d-b979e0677797" width="600" alt="saitama gif"/>
 </div>
