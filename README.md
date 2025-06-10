@@ -98,7 +98,9 @@
   <p><em>“Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.”</em></p>
 </div>
 
+---
+
 <div align="center">
-  <p><em>best games i've ever played</em></p>
    <img src="https://github.com/user-attachments/assets/317e9bff-202d-4d49-a62d-b979e0677797" width="600" alt="saitama gif"/>
+    <p><em>my top best games i've ever played</em></p>
 </div>
