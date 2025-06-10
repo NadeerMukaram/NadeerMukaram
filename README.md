@@ -100,5 +100,5 @@
 
 <div align="center">
   <p><em>best games i've ever played</em></p>
-  <a href="https://ibb.co/kPKdGHC"><img src="https://i.ibb.co/ztskmnv/nzro-best-games.png" alt="nzro-best-games" border="0" /></a>
+  ![Image](https://github.com/user-attachments/assets/317e9bff-202d-4d49-a62d-b979e0677797)
 </div>
