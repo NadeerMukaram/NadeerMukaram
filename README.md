@@ -97,3 +97,8 @@
   <img src="https://giffiles.alphacoders.com/170/170307.gif" width="300" alt="saitama gif"/>
   <p><em>“Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.”</em></p>
 </div>
+
+<div align="center">
+  <p><em>best games i've ever played</em></p>
+  <a href="https://ibb.co/kPKdGHC"><img src="https://i.ibb.co/ztskmnv/nzro-best-games.png" alt="nzro-best-games" border="0" /></a>
+</div>
