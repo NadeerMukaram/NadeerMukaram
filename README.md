@@ -101,7 +101,7 @@
 ---
 
 <div align="center">
+    <p><b>more about me:</b></p>
      <img src="https://github.com/user-attachments/assets/317e9bff-202d-4d49-a62d-b979e0677797" width="700" alt="saitama gif"/>
-      <img src="https://github.com/user-attachments/assets/317e9bff-202d-4d49-a62d-b979e0677797" width="700" alt="saitama gif"/>
     <p><em>my all-time favorite games.</em></p>
 </div>
