@@ -1,6 +1,7 @@
 <h1 align="center">Hello 😙, I'm Nadeer Mukaram</h1>
 <h3 align="center">A game/web developer from 🇵🇭 🎮🌐</h3>
 
+<div>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWUwNGdzazVnOHVpYjV1YWg1MnVydmEweWllOHVxY3doZmc5OTB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qp2GW6OolfLc2BA1Kk/giphy.gif" width="300"/>
 </div>
  
