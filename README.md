@@ -1,7 +1,8 @@
 <h1 align="center">Hello 😙, I'm Nadeer Mukaram</h1>
 <h3 align="center">A game/web developer from 🇵🇭 🎮🌐</h3>
 
-<div align="center">
+<div align="center"><img width="1880" height="1420" alt="chart" src="https://github.com/user-attachments/assets/1ccb55b6-6091-42fc-b2ec-72744e9abeb0" />
+
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWUwNGdzazVnOHVpYjV1YWg1MnVydmEweWllOHVxY3doZmc5OTB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qp2GW6OolfLc2BA1Kk/giphy.gif" width="300"/>
 </div>
  
@@ -102,7 +103,8 @@
 
 <h3 align="left">More about me:</h3>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/317e9bff-202d-4d49-a62d-b979e0677797" width="400"/>
+  <img width="1880" height="1420" alt="chart" src="https://github.com/user-attachments/assets/4a5ffc57-ebbe-444f-ba89-12542cb39c0a" />
   <img src="https://github.com/user-attachments/assets/d0537604-2448-4488-ba34-949caaf5f537" width="400"/>
   <p><em>my all-time favorite video games/films.</em></p>
 </div>
+
