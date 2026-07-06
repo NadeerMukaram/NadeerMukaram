@@ -105,7 +105,7 @@
 
 <h3 align="left">More about me:</h3>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4a5ffc57-ebbe-444f-ba89-12542cb39c0a" width="400"/>
+  <img src="https://github.com/user-attachments/assets/4b8801cb-fea7-48f5-b6e5-d89db3635a1f" width="400"/>
   <img src="https://github.com/user-attachments/assets/d0537604-2448-4488-ba34-949caaf5f537" width="400"/>
   <p><em>my all-time favorite video games/films.</em></p>
 </div>
